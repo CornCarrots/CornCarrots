@@ -1,7 +1,8 @@
-## Tech Stack:
-![](https://img.shields.io/badge/blog-@champyin-orange.svg?style=plastic)
+## 💻 My Info:
+![](https://img.shields.io/badge/blog-@corncarrots-orange.svg?style=plastic) ![](https://img.shields.io/badge/公众号-@玉米和胡萝卜-orange.svg?style=plastic)
+ ![](https://img.shields.io/badge/stack-go/java-orange.svg?style=plastic)
 
-## 📈GitHub Stats:
+## 📈 GitHub Stats:
 <div align="left">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=CornCarrots&theme=swift&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
