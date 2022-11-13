@@ -1,5 +1,5 @@
 ## Tech Stack:
-https://img.shields.io/badge/blog-@corncarrots-orange.svg?style=plastic
+[![](https://img.shields.io/badge/blog-corncarrots-orange.svg)]
 
 ## 📈GitHub Stats:
 <div align="left">
