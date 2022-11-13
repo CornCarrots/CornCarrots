@@ -1,6 +1,6 @@
 ## 💻 My Info:
-![](https://img.shields.io/badge/blog-@corncarrots-orange.svg?style=plastic) ![](https://img.shields.io/badge/公众号-@玉米和胡萝卜-orange.svg?style=plastic)
- ![](https://img.shields.io/badge/stack-go/java-orange.svg?style=plastic)
+![](https://img.shields.io/badge/blog-@corncarrots-orange.svg?style=plastic) ![](https://img.shields.io/badge/公众号-@玉米和胡萝卜-red.svg?style=plastic)
+ ![](https://img.shields.io/badge/stack-go/java-blue.svg?style=plastic)
 
 ## 📈 GitHub Stats:
 <div align="left">
